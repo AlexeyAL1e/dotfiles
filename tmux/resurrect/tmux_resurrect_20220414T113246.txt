@@ -1,4 +1,0 @@
-pane	test	1	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	0	zsh	:
-pane	test	1	1	:*	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	1	htop	:htop
-window	test	1	:htop	1	:*	81e5,190x48,0,0{95x48,0,0,1,94x48,96,0,3}	:
-state	test	

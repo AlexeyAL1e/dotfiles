@@ -1,6 +1,0 @@
-pane	test	1	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	1	man	:man systemctl
-pane	test	1	1	:*	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	0	zsh	:
-pane	test	1	1	:*	3	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim serv.py
-pane	test	1	1	:*	4	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	python3	:python3 ./serv.py
-window	test	1	:[tmux]	1	:*	30fc,282x76,0,0{141x76,0,0[141x38,0,0,1,141x37,0,39,6],140x76,142,0[140x38,142,0,2,140x37,142,39,4]}	:
-state	test	

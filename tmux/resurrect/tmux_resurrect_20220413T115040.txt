@@ -1,4 +1,0 @@
-pane	test	1	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	1	zsh	:
-pane	test	1	1	:*	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	0	zsh	:
-window	test	1	:zsh	1	:*	3b9c,282x76,0,0[282x38,0,0,0,282x37,0,39,1]	:
-state	test	
