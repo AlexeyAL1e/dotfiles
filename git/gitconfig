@@ -1,0 +1,14 @@
+[user]
+	name = Aleksei Agarkov
+	email = aleksei.agarkov@emlid.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[alias]
+	st = status
+	hist = log --oneline --graph
+	co = checkout
+[core]
+	editor = vim

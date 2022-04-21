@@ -1,0 +1,20 @@
+- clean: ['~']
+
+- link:
+    ~/.dotfiles: ''
+    ~/.tmux.conf: tmux/tmux.conf
+    ~/.tmux: tmux/
+    ~/.vim: vim/
+    ~/.vimrc: vim/vimrc
+    ~/.git: git/
+    ~/.gitconfig: git/gitconfig
+    ~/.gitignore: git/gitignore
+    ~/.zshrc: zsh/zshrc
+    ~/.screenrc: screen/screenrc
+    ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: zsh/zsh-autosuggestions
+    ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting: zsh/zsh-syntax-highlighting
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
+  - vim +PlugginInstall +qall
+  - echo "Don't forget to install oh-my-zsh"

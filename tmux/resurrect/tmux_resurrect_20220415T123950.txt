@@ -1,0 +1,10 @@
+pane	test	1	0	:-	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	1	zsh	:
+pane	test	1	0	:-	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim read-log-services-onbc.service
+pane	test	1	0	:-	3	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim serv.py
+pane	test	1	0	:-	4	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim bashtest.sh
+pane	test	1	0	:-	5	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	zsh	:
+pane	test	2	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/build_flasher/grpc/cmake/build	1	zsh	:
+pane	test	2	1	:*	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/build_flasher	0	man	:man make
+window	test	1	:zsh	0	:-	81f5,282x76,0,0{176x76,0,0[176x45,0,0,1,176x30,0,46,2],105x76,177,0[105x31,177,0,3,105x6,177,32,4,105x37,177,39,5]}	:
+window	test	2	:build-flasher	1	:*	a8d8,282x76,0,0{141x76,0,0,6,140x76,142,0,7}	off
+state	test	

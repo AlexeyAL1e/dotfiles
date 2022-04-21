@@ -1,0 +1,6 @@
+pane	1	1	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	1	ssh	:ssh reach@192.168.2.15
+pane	1	1	1	:*	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	0	htop	:htop
+pane	test	1	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	1	zsh	:
+window	1	1	:ssh	1	:*	57d2,282x76,0,0{137x76,0,0,1,144x76,138,0,4}	:
+window	test	1	:zsh	1	:*	c5e2,254x65,0,0,5	:
+state	1	test

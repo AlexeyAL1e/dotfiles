@@ -1,0 +1,13 @@
+pane	test	1	0	:	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	1	zsh	:
+pane	test	1	0	:	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim read-log-services-onbc.service
+pane	test	1	0	:	3	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim serv.py
+pane	test	1	0	:	4	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	vim	:vim bashtest.sh
+pane	test	1	0	:	5	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/service	0	zsh	:
+pane	test	2	1	:*	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/emlid-flasher	0	zsh	:
+pane	test	2	1	:*	2	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/emlid-flasher	0	zsh	:
+pane	test	2	1	:*	3	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov/build_flasher/emlid-flasher	1	zsh	:
+pane	test	3	0	:-	1	alekseiagarkov-ThinkPad-E14-Gen-2	:/home/alekseiagarkov	1	zsh	:
+window	test	1	:zsh	0	:	2e5f,211x56,0,0{140x56,0,0[140x35,0,0,1,140x20,0,36,2],70x56,141,0[70x23,141,0,3,70x1,141,24,4,70x30,141,26,5]}	:
+window	test	2	:build-flasher	1	:*	b2b1,211x56,0,0{92x56,0,0,6,118x56,93,0[118x33,93,0,7,118x22,93,34,8]}	off
+window	test	3	:test	0	:-	c566,211x56,0,0,9	off
+state	test	
