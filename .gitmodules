@@ -17,3 +17,6 @@
 [submodule "vim/colors/vim-monokai"]
 	path = vim/colors/vim-monokai
 	url = https://github.com/sickill/vim-monokai.git
+[submodule "tmux/tmux-resurrect"]
+	path = tmux/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect.git
