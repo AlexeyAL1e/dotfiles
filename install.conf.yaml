@@ -13,6 +13,7 @@
     ~/.screenrc: screen/screenrc
     ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: zsh/zsh-autosuggestions
     ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting: zsh/zsh-syntax-highlighting
+    ~/.oh-my-zsh/custom/plugins/history-search-multi-word: history-search-multi-word    
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
