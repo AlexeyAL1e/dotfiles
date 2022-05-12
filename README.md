@@ -10,6 +10,8 @@ There are my personal dotfiles for vim, tmux, zsh and git. Those would update so
 
 - installed tmux; it can be done via `sudo apt install tmux`;
 
+- installed xsel & sclip; `sudo apt install xcell xclip`;
+
 - installed oh-my-zsh; it can be done via curl:
 
 ```bash
