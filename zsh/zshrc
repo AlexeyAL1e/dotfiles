@@ -122,3 +122,5 @@ ZSH_HIGHLIGHT_STYLES[double-hyphen-option]=fg=magenta
 #aliases
 alias sctl='systemctl'
 alias jctl='journalctl'
+alias tms='tmux attach-session -t' # add name session
+alias tmls='tmux attach' # attach last session
